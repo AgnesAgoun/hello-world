@@ -1,1 +1,2 @@
-this is a text file with some infos ... ect.
+this is a text file with some infos,
+this is a modification, you will see additions and deletions.
